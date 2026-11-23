@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "image": "./gallary/work-01.jpg",
+    "category": "design"
+  },
+  {
+    "id": 2,
+    "image": "./gallary/work-02.jpg",
+    "category": "design"
+  },
+  {
+    "id": 3,
+    "image": "./gallary/work-03.jpg",
+    "category": "code"
+  },
+  {
+    "id": 4,
+    "image": "./gallary/work-04.jpg",
+    "category": "code"
+  },
+  {
+    "id": 5,
+    "image": "./gallary/work-05.jpg",
+    "category": "photo"
+  },
+  {
+    "id": 6,
+    "image": "./gallary/work-06.jpg",
+    "category": "photo"
+  },
+  {
+    "id": 7,
+    "image": "./gallary/work-07.jpg",
+    "category": "app"
+  },
+  {
+    "id": 8,
+    "image": "./gallary/work-08.jpg",
+    "category": "app"
+  }
+]

@@ -32,7 +32,7 @@ body {
 /* start navbar */
 .navbar {
   background-color: var(--dark-color);
-  padding-bottom: 20px;
+ 
 }
 .navbar .navbar-nav .nav-link {
   color: white;
@@ -90,8 +90,8 @@ body {
       margin-top: 0;
     }
     .navbar .search-box input[type="text"] {
-      left: 25px;
-      top: calc(100% + 1.5rem);
+      left: 30px;
+      top: 60px;
       transform: translateX(-85%);
       width: fit-content;
   }
@@ -159,10 +159,17 @@ body {
   background-color: var(--red-color);
   border-radius: 32px;
 }
+.our-work .Pbox  {
+margin-left: 80px;
+ 
+}
 .our-work .box {
   padding: 5px;
   overflow: hidden;
   position: relative;
+}
+.our-work .hidden{
+  display: none;
 }
 .our-work .box::before {
   content: attr(data-work);
